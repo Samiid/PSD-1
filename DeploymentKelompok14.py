@@ -7,7 +7,6 @@ Created on Mon Dec 27 00:08:24 2021
 
 import streamlit as st
 import numpy as np
-import pickle
 import sklearn
 import spacy
 from spacytextblob.spacytextblob import SpacyTextBlob
